@@ -1,0 +1,27 @@
+{
+  "input_path": "/content/drive/MyDrive/filtered_reviews .csv",
+  "output_path": "/content/drive/MyDrive/goodreads_reproduction_results/goodreads_paper_features.csv",
+  "rows_written": 1981129,
+  "target_counts": {
+    "0": 1572276,
+    "1": 408853
+  },
+  "features_added": [
+    "rating_diff",
+    "quote",
+    "num_words",
+    "avg_sent_len",
+    "avg_word_len",
+    "pct_verbs",
+    "pct_nouns",
+    "pct_adj",
+    "sentiment",
+    "tokenized_words"
+  ],
+  "max_rows_setting": null,
+  "random_state": 229,
+  "checkpoint_dir": "/content/drive/MyDrive/goodreads_reproduction_results/feature_chunk_checkpoints_all_rows",
+  "progress_manifest": "/content/drive/MyDrive/goodreads_reproduction_results/feature_engineering_progress_all_rows.json",
+  "completed_chunks": 397,
+  "expected_chunks": 397
+}

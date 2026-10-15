@@ -1,0 +1,10 @@
+{
+  "random_state": 229,
+  "train_fraction": 0.69999,
+  "validation_fraction": 0.15001,
+  "test_fraction": 0.15,
+  "rows_used": 100000,
+  "quick_run": true,
+  "max_rows": 100000,
+  "target": "popular"
+}
